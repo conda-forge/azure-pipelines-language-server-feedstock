@@ -1,5 +1,5 @@
 context:
-  version: 0.8.0
+  version: "0.9.0"
 
 package:
   name: azure-pipelines-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/azure-pipelines-language-server/-/azure-pipelines-language-server-${{ version }}.tgz
-  sha256: 7e938544c7389795e8dc51c2f4b7d085f2e894e8903faaacce4a7ce2d5e412cd
+  sha256: bb67fa7926c2a5b2731dd3e10aceb4f03fd27b9bc16904c9bbf3af0db1e47084
 
 build:
   number: 0
